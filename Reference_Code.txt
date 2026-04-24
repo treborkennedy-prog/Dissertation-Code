@@ -1,4 +1,4 @@
-All MolecularGPT scripts were adapted from: https://github.com/NYUSHCS/MolecularGPT.
+All MolecularGPT scripts were adapted from: https://github.com/NYUSHCS/MolecularGPT
 
 @article{liu2024moleculargpt,
     title={MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction},
