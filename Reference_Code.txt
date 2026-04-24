@@ -1,5 +1,6 @@
 All MolecularGPT scripts were adapted from: https://github.com/NYUSHCS/MolecularGPT
 
+CITATION
 @article{liu2024moleculargpt,
     title={MolecularGPT: Open Large Language Model (LLM) for Few-Shot Molecular Property Prediction},
     author={Yuyan Liu and Sirui Ding and Sheng Zhou and Wenqi Fan and Qiaoyu Tan},
